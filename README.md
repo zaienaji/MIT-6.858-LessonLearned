@@ -41,6 +41,8 @@ Security is handled in **two stages**:
 
 ## Design Focus: Secure Enclave
 
+![iPhone hardware architecture](images/iphone-hw-arch.png)
+
 ### Key Features:
 - **Dedicated CPU**, not a software sandbox or logical partition
 - **UID (Unique Identifier)** embedded during manufacturing
@@ -73,6 +75,8 @@ Security is handled in **two stages**:
 ---
 
 ## Data Encryption
+
+![iphone flash encryption](images/iphone-flash-encryption.png)
 
 - Handled by a **dedicated AES encryption engine**
 - **All disk I/O is encrypted**, ensuring **full-disk encryption**
