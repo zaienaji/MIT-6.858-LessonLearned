@@ -1,4 +1,4 @@
-# Client Device Security Overview
+# Lecture 8: Client Device Security
 
 ## Two Categories of Client Devices
 
